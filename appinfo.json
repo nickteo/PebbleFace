@@ -1,0 +1,38 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "gyteo92@gmail.com",
+    "longName": "watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/cambriab.ttf",
+                "name": "CAMBRIA_BOLD_40",
+                "type": "font"
+            },
+            {
+                "file": "fonts/cambriab.ttf",
+                "name": "CAMBRIA_BOLD_20",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "watchface",
+    "uuid": "090f151d-0ae8-4356-b3a8-ea07fcaaff36",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
